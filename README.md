@@ -38,10 +38,3 @@
 <img width="466" height="884" alt="Ekran Resmi 2025-05-07 10 07 34" src="https://github.com/user-attachments/assets/6a115be9-854f-4a3c-b274-435524538c9c" />
 
 
-## 🛠️ Setup & Installation
-
-1. Clone the repo:
-
-```bash
-git clone https://github.com/your-username/nutrie-track.git
-cd nutrie-track
