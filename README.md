@@ -31,8 +31,12 @@
 
 <!-- Include screenshots of the main screens like login, dashboard, client view, etc. -->
 
-![Login Screen](./assets/screenshots/login.png)
-![Dashboard](./assets/screenshots/dashboard.png)
+<img width="466" height="884" alt="Ekran Resmi 2025-05-07 10 10 09" src="https://github.com/user-attachments/assets/eeda56fb-3f7e-4906-8bf2-1f669ef66aae" />
+
+<img width="466" height="884" alt="Ekran Resmi 2025-05-07 10 05 37" src="https://github.com/user-attachments/assets/b68c66fd-ab3b-4059-855b-e4f8184ed1d5" />
+
+<img width="466" height="884" alt="Ekran Resmi 2025-05-07 10 07 34" src="https://github.com/user-attachments/assets/6a115be9-854f-4a3c-b274-435524538c9c" />
+
 
 ## 🛠️ Setup & Installation
 
